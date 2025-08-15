@@ -1,0 +1,332 @@
+Total playlists found: 30
+
+Playlist 1: الدورة الكاملة للتعلم العميق Deep Learning , Computer Vision, NLP
+ID: PL6-3IRz2XF5X-lzMZdmkvGAx1a3kIm7_I
+Creator: Hesham Asem
+Video count: 25 (from 1 to 25) (0 unavailable)
+Average video length: 1 hours, 58 minutes, 51 seconds
+Total length: 49 hours, 31 minutes, 28 seconds
+At 1.25x: 39 hours, 37 minutes, 10 seconds
+At 1.5x: 33 hours, 0 minutes, 58 seconds
+At 1.75x: 28 hours, 17 minutes, 58 seconds
+At 2.0x: 24 hours, 45 minutes, 44 seconds
+
+Playlist 2: Shorts
+ID: PL6-3IRz2XF5WdEIbQy-TFkpLNESBS62bt
+Creator: Hesham Asem
+Video count: 35 (from 1 to 35) (1 unavailable)
+Average video length: 0 hours, 0 minutes, 39 seconds
+Total length: 0 hours, 22 minutes, 38 seconds
+At 1.25x: 0 hours, 18 minutes, 6 seconds
+At 1.5x: 0 hours, 15 minutes, 5 seconds
+At 1.75x: 0 hours, 12 minutes, 56 seconds
+At 2.0x: 0 hours, 11 minutes, 19 seconds
+
+Playlist 3: عالم مختلف
+ID: PL6-3IRz2XF5UF10BAJImUkVa7BgzNbM3l
+Creator: Hesham Asem
+Video count: 11 (from 1 to 11) (1 unavailable)
+Average video length: 0 hours, 15 minutes, 31 seconds
+Total length: 2 hours, 35 minutes, 10 seconds
+At 1.25x: 2 hours, 4 minutes, 8 seconds
+At 1.5x: 1 hours, 43 minutes, 26 seconds
+At 1.75x: 1 hours, 28 minutes, 40 seconds
+At 2.0x: 1 hours, 17 minutes, 35 seconds
+
+Playlist 4: 33- الدورة الكاملة لتعلم الآلة
+ID: PL6-3IRz2XF5Ua2KG_Fl3lbZ-kKi3-Np0_
+Creator: Hesham Asem
+Video count: 68 (from 1 to 68) (0 unavailable)
+Average video length: 0 hours, 59 minutes, 36 seconds
+Total length: 67 hours, 33 minutes, 47 seconds
+At 1.25x: 54 hours, 3 minutes, 1 seconds
+At 1.5x: 45 hours, 2 minutes, 31 seconds
+At 1.75x: 38 hours, 36 minutes, 26 seconds
+At 2.0x: 33 hours, 46 minutes, 53 seconds
+
+Playlist 5: 32- دورة تشات بوت Chatbot
+ID: PL6-3IRz2XF5VAZOahFLIj2k4WK-8TRc5I
+Creator: Hesham Asem
+Video count: 40 (from 1 to 40) (0 unavailable)
+Average video length: 0 hours, 16 minutes, 22 seconds
+Total length: 10 hours, 55 minutes, 8 seconds
+At 1.25x: 8 hours, 44 minutes, 6 seconds
+At 1.5x: 7 hours, 16 minutes, 45 seconds
+At 1.75x: 6 hours, 14 minutes, 21 seconds
+At 2.0x: 5 hours, 27 minutes, 34 seconds
+
+Playlist 6: 30 مبادرة ألف مهندس ذكاء اصطناعي
+ID: PL6-3IRz2XF5UnTCuTKBueuxPQJ4Mqkjr5
+Creator: Hesham Asem
+Video count: 53 (from 1 to 53) (0 unavailable)
+Average video length: 1 hours, 16 minutes, 11 seconds
+Total length: 67 hours, 18 minutes, 4 seconds
+At 1.25x: 53 hours, 50 minutes, 27 seconds
+At 1.5x: 44 hours, 52 minutes, 2 seconds
+At 1.75x: 38 hours, 27 minutes, 28 seconds
+At 2.0x: 33 hours, 39 minutes, 2 seconds
+
+Playlist 7: 31 مبادرة الف مهندس , مشاريع التخرج
+ID: PL6-3IRz2XF5UuSjetc1MH2-JjvuuRG4qw
+Creator: Hesham Asem
+Video count: 41 (from 1 to 41) (0 unavailable)
+Average video length: 0 hours, 16 minutes, 34 seconds
+Total length: 11 hours, 19 minutes, 54 seconds
+At 1.25x: 9 hours, 3 minutes, 55 seconds
+At 1.5x: 7 hours, 33 minutes, 16 seconds
+At 1.75x: 6 hours, 28 minutes, 30 seconds
+At 2.0x: 5 hours, 39 minutes, 57 seconds
+
+Playlist 8: 28 NLP-08   تكنيكات حديثة في المعالجة اللغوية الطبيعية
+ID: PL6-3IRz2XF5XHsUtAUid97yRi011KSDBZ
+Creator: Hesham Asem
+Video count: 26 (from 1 to 26) (0 unavailable)
+Average video length: 0 hours, 14 minutes, 10 seconds
+Total length: 6 hours, 8 minutes, 39 seconds
+At 1.25x: 4 hours, 54 minutes, 55 seconds
+At 1.5x: 4 hours, 5 minutes, 46 seconds
+At 1.75x: 3 hours, 30 minutes, 39 seconds
+At 2.0x: 3 hours, 4 minutes, 19 seconds
+
+Playlist 9: 27 NLP-07   الشبكات العصبية المتكررة
+ID: PL6-3IRz2XF5XZCwISqNQPFFns9bnx2wUG
+Creator: Hesham Asem
+Video count: 10 (from 1 to 10) (0 unavailable)
+Average video length: 0 hours, 13 minutes, 45 seconds
+Total length: 2 hours, 17 minutes, 33 seconds
+At 1.25x: 1 hours, 50 minutes, 2 seconds
+At 1.5x: 1 hours, 31 minutes, 42 seconds
+At 1.75x: 1 hours, 18 minutes, 36 seconds
+At 2.0x: 1 hours, 8 minutes, 46 seconds
+
+Playlist 10: 26 NLP-06   تجميع البيانات
+ID: PL6-3IRz2XF5UsyOPThnWFKUzSkrQwQHJ0
+Creator: Hesham Asem
+Video count: 22 (from 1 to 22) (0 unavailable)
+Average video length: 0 hours, 12 minutes, 35 seconds
+Total length: 4 hours, 37 minutes, 9 seconds
+At 1.25x: 3 hours, 41 minutes, 43 seconds
+At 1.5x: 3 hours, 4 minutes, 46 seconds
+At 1.75x: 2 hours, 38 minutes, 22 seconds
+At 2.0x: 2 hours, 18 minutes, 34 seconds
+
+Playlist 11: 25 NLP-05   المعالجة المتقدمة للنصوص
+ID: PL6-3IRz2XF5W7QQ3mKJ1kldXpN3Vquzbc
+Creator: Hesham Asem
+Video count: 74 (from 1 to 74) (0 unavailable)
+Average video length: 0 hours, 14 minutes, 11 seconds
+Total length: 17 hours, 30 minutes, 41 seconds
+At 1.25x: 14 hours, 0 minutes, 32 seconds
+At 1.5x: 11 hours, 40 minutes, 27 seconds
+At 1.75x: 10 hours, 0 minutes, 23 seconds
+At 2.0x: 8 hours, 45 minutes, 20 seconds
+
+Playlist 12: 24 NLP-04   المعالجة البسيطة للنصوص
+ID: PL6-3IRz2XF5W7brQxe9RHNpHSeUTuz-V_
+Creator: Hesham Asem
+Video count: 30 (from 1 to 30) (0 unavailable)
+Average video length: 0 hours, 14 minutes, 44 seconds
+Total length: 7 hours, 22 minutes, 24 seconds
+At 1.25x: 5 hours, 53 minutes, 55 seconds
+At 1.5x: 4 hours, 54 minutes, 56 seconds
+At 1.75x: 4 hours, 12 minutes, 48 seconds
+At 2.0x: 3 hours, 41 minutes, 12 seconds
+
+Playlist 13: 23 NLP-03   أدوات المعالجة اللغوية الطبيعية
+ID: PL6-3IRz2XF5WYpWu6Y8T3firJLflZ3Ufi
+Creator: Hesham Asem
+Video count: 25 (from 1 to 25) (0 unavailable)
+Average video length: 0 hours, 14 minutes, 15 seconds
+Total length: 5 hours, 56 minutes, 35 seconds
+At 1.25x: 4 hours, 45 minutes, 16 seconds
+At 1.5x: 3 hours, 57 minutes, 43 seconds
+At 1.75x: 3 hours, 23 minutes, 45 seconds
+At 2.0x: 2 hours, 58 minutes, 17 seconds
+
+Playlist 14: 22 NLP-02   أساسيات المعالجة اللغوية الطبيعية
+ID: PL6-3IRz2XF5VFSRQLI7skbH8UPEdfCFBg
+Creator: Hesham Asem
+Video count: 8 (from 1 to 8) (0 unavailable)
+Average video length: 0 hours, 16 minutes, 21 seconds
+Total length: 2 hours, 10 minutes, 55 seconds
+At 1.25x: 1 hours, 44 minutes, 44 seconds
+At 1.5x: 1 hours, 27 minutes, 16 seconds
+At 1.75x: 1 hours, 14 minutes, 48 seconds
+At 2.0x: 1 hours, 5 minutes, 27 seconds
+
+Playlist 15: 21 NLP-01   مقدمة
+ID: PL6-3IRz2XF5XpTaCGcWlSx-hy8JcIxsU7
+Creator: Hesham Asem
+Video count: 6 (from 1 to 6) (0 unavailable)
+Average video length: 0 hours, 14 minutes, 36 seconds
+Total length: 1 hours, 27 minutes, 41 seconds
+At 1.25x: 1 hours, 10 minutes, 8 seconds
+At 1.5x: 0 hours, 58 minutes, 27 seconds
+At 1.75x: 0 hours, 50 minutes, 6 seconds
+At 2.0x: 0 hours, 43 minutes, 50 seconds
+
+Playlist 16: 20 البث المباشر
+ID: PL6-3IRz2XF5W7STovGev_1Fo-stb_xdhh
+Creator: Hesham Asem
+Video count: 44 (from 1 to 44) (1 unavailable)
+Average video length: 1 hours, 16 minutes, 27 seconds
+Total length: 54 hours, 47 minutes, 32 seconds
+At 1.25x: 43 hours, 50 minutes, 1 seconds
+At 1.5x: 36 hours, 31 minutes, 41 seconds
+At 1.75x: 31 hours, 18 minutes, 35 seconds
+At 2.0x: 27 hours, 23 minutes, 46 seconds
+
+Playlist 17: 18 الكورس الخامس : الشبكات العصبية المتكررة RNN
+ID: PL6-3IRz2XF5WTcrGAWlZUL9sOGYgSsON_
+Creator: Hesham Asem
+Video count: 35 (from 1 to 35) (0 unavailable)
+Average video length: 0 hours, 18 minutes, 15 seconds
+Total length: 10 hours, 38 minutes, 59 seconds
+At 1.25x: 8 hours, 31 minutes, 11 seconds
+At 1.5x: 7 hours, 5 minutes, 59 seconds
+At 1.75x: 6 hours, 5 minutes, 8 seconds
+At 2.0x: 5 hours, 19 minutes, 29 seconds
+
+Playlist 18: 17 الكورس الرابع : الشبكات العصبية الملتفة   CNN
+ID: PL6-3IRz2XF5XHyhWNs-jxFtfERv4NlZmm
+Creator: Hesham Asem
+Video count: 39 (from 1 to 39) (0 unavailable)
+Average video length: 0 hours, 18 minutes, 10 seconds
+Total length: 11 hours, 48 minutes, 52 seconds
+At 1.25x: 9 hours, 27 minutes, 5 seconds
+At 1.5x: 7 hours, 52 minutes, 34 seconds
+At 1.75x: 6 hours, 45 minutes, 4 seconds
+At 2.0x: 5 hours, 54 minutes, 26 seconds
+
+Playlist 19: 16 الكورس الثالث : هيكلية مشاريع تعلم الآلة
+ID: PL6-3IRz2XF5XhL1i0vvBi39LA_ChPzyWw
+Creator: Hesham Asem
+Video count: 7 (from 1 to 7) (0 unavailable)
+Average video length: 0 hours, 20 minutes, 24 seconds
+Total length: 2 hours, 22 minutes, 51 seconds
+At 1.25x: 1 hours, 54 minutes, 16 seconds
+At 1.5x: 1 hours, 35 minutes, 14 seconds
+At 1.75x: 1 hours, 21 minutes, 37 seconds
+At 2.0x: 1 hours, 11 minutes, 25 seconds
+
+Playlist 20: 15 الكورس الثاني :  تطوير الشبكات العميقة
+ID: PL6-3IRz2XF5VAuf-d71pu2vGZDgGZnZMw
+Creator: Hesham Asem
+Video count: 24 (from 1 to 24) (0 unavailable)
+Average video length: 0 hours, 16 minutes, 27 seconds
+Total length: 6 hours, 35 minutes, 8 seconds
+At 1.25x: 5 hours, 16 minutes, 6 seconds
+At 1.5x: 4 hours, 23 minutes, 25 seconds
+At 1.75x: 3 hours, 45 minutes, 47 seconds
+At 2.0x: 3 hours, 17 minutes, 34 seconds
+
+Playlist 21: 14 الكورس الأول : التعلم العميق و الشبكات العصبية
+ID: PL6-3IRz2XF5WyBLsw6yJYWIiFJ1OmmRyK
+Creator: Hesham Asem
+Video count: 17 (from 1 to 17) (0 unavailable)
+Average video length: 0 hours, 22 minutes, 15 seconds
+Total length: 6 hours, 18 minutes, 25 seconds
+At 1.25x: 5 hours, 2 minutes, 44 seconds
+At 1.5x: 4 hours, 12 minutes, 16 seconds
+At 1.75x: 3 hours, 36 minutes, 14 seconds
+At 2.0x: 3 hours, 9 minutes, 12 seconds
+
+Playlist 22: 13 ML Helper Tutorials  برنامج المساعد في تعليم الآلة
+ID: PL6-3IRz2XF5VdA0sd-nLM0LMzhfivfwmu
+Creator: Hesham Asem
+Video count: 8 (from 1 to 8) (0 unavailable)
+Average video length: 0 hours, 21 minutes, 5 seconds
+Total length: 2 hours, 48 minutes, 44 seconds
+At 1.25x: 2 hours, 14 minutes, 59 seconds
+At 1.5x: 1 hours, 52 minutes, 29 seconds
+At 1.75x: 1 hours, 36 minutes, 25 seconds
+At 2.0x: 1 hours, 24 minutes, 22 seconds
+
+Playlist 23: 12 القسم الثاني عشر : تطبيقات عملية من كاجل و جيتهاب Kaggle & Github
+ID: PL6-3IRz2XF5XA13ZqfacovmyOLjYwwhMt
+Creator: Hesham Asem
+Video count: 23 (from 1 to 23) (0 unavailable)
+Average video length: 0 hours, 23 minutes, 57 seconds
+Total length: 9 hours, 11 minutes, 8 seconds
+At 1.25x: 7 hours, 20 minutes, 54 seconds
+At 1.5x: 6 hours, 7 minutes, 25 seconds
+At 1.75x: 5 hours, 14 minutes, 56 seconds
+At 2.0x: 4 hours, 35 minutes, 34 seconds
+
+Playlist 24: 19 كورس التعلم العميق بالكامل
+ID: PL6-3IRz2XF5UiBoBDgeu5T3TyOIrgQ3r9
+Creator: Hesham Asem
+Video count: 120 (from 1 to 120) (0 unavailable)
+Average video length: 0 hours, 17 minutes, 46 seconds
+Total length: 35 hours, 33 minutes, 46 seconds
+At 1.25x: 28 hours, 27 minutes, 0 seconds
+At 1.5x: 23 hours, 42 minutes, 30 seconds
+At 1.75x: 20 hours, 19 minutes, 17 seconds
+At 2.0x: 17 hours, 46 minutes, 53 seconds
+
+Playlist 25: 11 القسم الحادي عشر : تنسر فلو و كيراس   TensorFlow & Keras
+ID: PL6-3IRz2XF5VbuU2T0gS_mFhCpKmLxvCP
+Creator: Hesham Asem
+Video count: 32 (from 1 to 32) (12 unavailable)
+Average video length: 0 hours, 19 minutes, 36 seconds
+Total length: 6 hours, 32 minutes, 11 seconds
+At 1.25x: 5 hours, 13 minutes, 44 seconds
+At 1.5x: 4 hours, 21 minutes, 27 seconds
+At 1.75x: 3 hours, 44 minutes, 6 seconds
+At 2.0x: 3 hours, 16 minutes, 5 seconds
+
+Playlist 26: 10 القسم العاشر : مكتبة سايكيتليرن Sklearn Library
+ID: PL6-3IRz2XF5X_9JeJh1xeciAbkijvc09k
+Creator: Hesham Asem
+Video count: 42 (from 1 to 42) (0 unavailable)
+Average video length: 0 hours, 21 minutes, 13 seconds
+Total length: 14 hours, 51 minutes, 42 seconds
+At 1.25x: 11 hours, 53 minutes, 21 seconds
+At 1.5x: 9 hours, 54 minutes, 28 seconds
+At 1.75x: 8 hours, 29 minutes, 32 seconds
+At 2.0x: 7 hours, 25 minutes, 51 seconds
+
+Playlist 27: 09 القسم التاسع : تكنيكات حديثة في تعليم الآلة
+ID: PL6-3IRz2XF5XJKEXITqCNQN8209q3qlrL
+Creator: Hesham Asem
+Video count: 12 (from 1 to 12) (0 unavailable)
+Average video length: 0 hours, 27 minutes, 47 seconds
+Total length: 5 hours, 33 minutes, 27 seconds
+At 1.25x: 4 hours, 26 minutes, 45 seconds
+At 1.5x: 3 hours, 42 minutes, 18 seconds
+At 1.75x: 3 hours, 10 minutes, 32 seconds
+At 2.0x: 2 hours, 46 minutes, 43 seconds
+
+Playlist 28: 08 القسم الثامن : مواضيع هامة في تعليم الآلة
+ID: PL6-3IRz2XF5UnONA8-ENhR0NE04mIllqB
+Creator: Hesham Asem
+Video count: 26 (from 1 to 26) (0 unavailable)
+Average video length: 0 hours, 22 minutes, 49 seconds
+Total length: 9 hours, 53 minutes, 30 seconds
+At 1.25x: 7 hours, 54 minutes, 48 seconds
+At 1.5x: 6 hours, 35 minutes, 40 seconds
+At 1.75x: 5 hours, 39 minutes, 8 seconds
+At 2.0x: 4 hours, 56 minutes, 45 seconds
+
+Playlist 29: 07 القسم السابع : التعليم بدون إشراف Unsupervised ML
+ID: PL6-3IRz2XF5VEygzpmG1GZgI8l1xwPDBP
+Creator: Hesham Asem
+Video count: 10 (from 1 to 10) (0 unavailable)
+Average video length: 0 hours, 21 minutes, 54 seconds
+Total length: 3 hours, 39 minutes, 8 seconds
+At 1.25x: 2 hours, 55 minutes, 18 seconds
+At 1.5x: 2 hours, 26 minutes, 5 seconds
+At 1.75x: 2 hours, 5 minutes, 13 seconds
+At 2.0x: 1 hours, 49 minutes, 34 seconds
+
+Playlist 30: 06 القسم السادس : نظام الدعم الآلي SVM
+ID: PL6-3IRz2XF5U98PPtkc34sg7EEGC34WRs
+Creator: Hesham Asem
+Video count: 6 (from 1 to 6) (0 unavailable)
+Average video length: 0 hours, 24 minutes, 37 seconds
+Total length: 2 hours, 27 minutes, 43 seconds
+At 1.25x: 1 hours, 58 minutes, 10 seconds
+At 1.5x: 1 hours, 38 minutes, 28 seconds
+At 1.75x: 1 hours, 24 minutes, 24 seconds
+At 2.0x: 1 hours, 13 minutes, 51 seconds
+
