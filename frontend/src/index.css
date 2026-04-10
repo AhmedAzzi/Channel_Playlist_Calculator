@@ -36,8 +36,8 @@ h4 {
 
 .app-container {
   min-height: 100vh;
-  padding: 2rem;
-  max-width: 1200px;
+  padding: 1rem 1.5rem;
+  max-width: 1400px;
   margin: 0 auto;
   position: relative;
 }
@@ -68,17 +68,25 @@ h4 {
 /* Header Section */
 header {
   text-align: center;
-  margin-bottom: 4rem;
-  padding-top: 2rem;
+  margin-bottom: 2rem;
+  padding-top: 1rem;
 }
 
 header h1 {
-  font-size: 3.5rem;
+  font-size: 2.8rem;
   letter-spacing: -0.02em;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
   background: linear-gradient(135deg, #fff 0%, #a0a0a0 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.title-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 header p {
@@ -143,38 +151,102 @@ button.primary:disabled {
   cursor: not-allowed;
 }
 
+/* Channel Header */
+.channel-header {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  background: var(--bg-card);
+  padding: 1.2rem 2rem;
+  border-radius: 1.5rem;
+  border: 1px solid var(--border);
+  backdrop-filter: var(--glass-effect);
+  margin-bottom: 2rem;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+}
+
+.channel-avatar-wrapper {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  padding: 3px;
+  background: linear-gradient(135deg, var(--accent-red), transparent);
+  flex-shrink: 0;
+}
+
+.channel-avatar {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--bg-deep);
+}
+
+.channel-info h2 {
+  font-size: 1.4rem;
+  margin-bottom: 0.1rem;
+  background: linear-gradient(135deg, #fff 0%, #a0a0a0 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.channel-info p {
+  color: var(--text-secondary);
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.channel-name-link {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+.channel-name-link:hover {
+  opacity: 0.8;
+}
+
+.channel-name-link svg {
+  color: var(--text-secondary);
+}
+
 /* Stats Summary */
 .summary-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
-  margin-bottom: 4rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
 }
 
 .stat-card {
   background: var(--bg-card);
   border: 1px solid var(--border);
-  border-radius: 1.5rem;
-  padding: 2rem;
+  border-radius: 1rem;
+  padding: 1.2rem;
   backdrop-filter: var(--glass-effect);
   transition: transform 0.3s ease;
+  position: relative;
 }
 
 .stat-card:hover {
-  transform: translateY(-5px);
+  transform: translateY(-3px);
   border-color: rgba(255, 255, 255, 0.2);
 }
 
 .stat-card h3 {
   color: var(--text-secondary);
-  font-size: 0.9rem;
+  font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.3rem;
 }
 
 .stat-card .value {
-  font-size: 2.2rem;
+  font-size: 1.4rem;
   font-weight: 700;
   font-family: 'Outfit', sans-serif;
 }
@@ -183,13 +255,13 @@ button.primary:disabled {
 .playlist-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 2rem;
+  gap: 1.2rem;
 }
 
 .playlist-card {
   background: var(--bg-card);
   border: 1px solid var(--border);
-  border-radius: 1.5rem;
+  border-radius: 1.2rem;
   overflow: hidden;
   backdrop-filter: var(--glass-effect);
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -197,20 +269,20 @@ button.primary:disabled {
 
 .playlist-card:hover {
   border-color: var(--accent-red);
-  transform: scale(1.02);
+  transform: translateY(-4px);
 }
 
 .card-content {
-  padding: 1rem;
+  padding: 1.2rem;
 }
 
 .card-header {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 .card-header h2 {
-  font-size: 1.4rem;
-  margin-bottom: 0.3rem;
+  font-size: 1.1rem;
+  margin-bottom: 0.2rem;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -218,44 +290,44 @@ button.primary:disabled {
 
 .card-header .creator {
   color: var(--text-secondary);
-  font-size: 0.9rem;
+  font-size: 0.75rem;
 }
 
 .card-stats {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 1rem;
-  margin-bottom: 1.5rem;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
 }
 
 .mini-stat {
   background: rgba(255, 255, 255, 0.05);
-  padding: 0.8rem;
-  border-radius: 1rem;
+  padding: 0.5rem;
+  border-radius: 0.8rem;
 }
 
 .mini-stat label {
   display: block;
-  font-size: 0.75rem;
+  font-size: 0.65rem;
   color: var(--text-secondary);
 }
 
 .mini-stat .val {
   font-weight: 600;
-  font-size: 1rem;
+  font-size: 0.85rem;
 }
 
 .speed-table {
   background: rgba(0, 0, 0, 0.3);
-  padding: 1.2rem;
-  border-radius: 1.2rem;
+  padding: 0.8rem;
+  border-radius: 1rem;
 }
 
 .speed-row {
   display: flex;
   justify-content: space-between;
-  padding: 0.4rem 0;
-  font-size: 0.9rem;
+  padding: 0.3rem 0;
+  font-size: 0.8rem;
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 

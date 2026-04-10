@@ -31,8 +31,10 @@ def get_channel_playlists(url):
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'socket_timeout': 30,
+        'socket_timeout': 60,
         'no_warnings': True,
+        'nocheckcertificate': True,
+        'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
     }
     
     # Try multiple common tab URLs to find all content
@@ -90,7 +92,10 @@ def get_playlist_info_fast(url):
         'quiet': True,
         'extract_flat': True,
         'skip_download': True,
-        'socket_timeout': 30,
+        'socket_timeout': 60,
+        'no_warnings': True,
+        'nocheckcertificate': True,
+        'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
     }
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
@@ -147,8 +152,35 @@ def analyze():
             playlists = get_channel_playlists(channel_url)
             total = len(playlists)
             
-            # Initial event with total count
-            yield f"data: {json.dumps({'type': 'init', 'total': total})}\n\n"
+            # Extract channel metadata from the first successful extraction
+            channel_metadata = {}
+            with yt_dlp.YoutubeDL({
+                'quiet': True, 
+                'extract_flat': True, 
+                'skip_download': True,
+                'no_warnings': True,
+                'socket_timeout': 60,
+                'nocheckcertificate': True,
+                'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+            }) as ydl:
+                try:
+                    c_info = ydl.extract_info(channel_url, download=False)
+                    thumb_url = ""
+                    if c_info.get('thumbnails'):
+                        thumb_url = c_info['thumbnails'][-1]['url']
+                    elif c_info.get('thumbnail'):
+                        thumb_url = c_info['thumbnail']
+                        
+                    channel_metadata = {
+                        "title": c_info.get('uploader') or c_info.get('title'),
+                        "thumbnail": thumb_url,
+                        "url": c_info.get('webpage_url') or channel_url
+                    }
+                except:
+                    pass
+
+            # Initial event with total count and channel info
+            yield f"data: {json.dumps({'type': 'init', 'total': total, 'channel': channel_metadata})}\n\n"
             
             processed_results = []
             for i, pl in enumerate(playlists):

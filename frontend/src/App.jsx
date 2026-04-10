@@ -8,7 +8,7 @@ const API_URL = 'http://localhost:5000/api/analyze';
 function App() {
   const [url, setUrl] = useState('');
   const [loading, setLoading] = useState(false);
-  const [data, setData] = useState({ playlists: [], summary: null });
+  const [data, setData] = useState({ playlists: [], summary: null, channel: null });
   const [progress, setProgress] = useState({ current: 0, total: 0 });
   const [error, setError] = useState(null);
   const [isFinished, setIsFinished] = useState(false);
@@ -19,7 +19,7 @@ function App() {
 
     setLoading(true);
     setError(null);
-    setData({ playlists: [], summary: null });
+    setData({ playlists: [], summary: null, channel: null });
     setProgress({ current: 0, total: 0 });
     setIsFinished(false);
 
@@ -52,6 +52,7 @@ function App() {
               
               if (event.type === 'init') {
                 setProgress(prev => ({ ...prev, total: event.total }));
+                setData(prev => ({ ...prev, channel: event.channel }));
               } else if (event.type === 'playlist') {
                 setData(prev => ({
                   ...prev,
@@ -89,9 +90,12 @@ function App() {
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
+          className="header-content"
         >
-          <Youtube className="mx-auto text-red-500 mb-4" size={48} strokeWidth={2} style={{ color: '#ff4d4d' }} />
-          <h1>Playlist Calc</h1>
+          <div className="title-row">
+            <Youtube className="text-red-500" size={42} strokeWidth={2} style={{ color: '#ff4d4d' }} />
+            <h1>Playlist Calc</h1>
+          </div>
           <p>Supercharge your YouTube learning with detailed playlist analytics.</p>
         </motion.div>
       </header>
@@ -141,13 +145,28 @@ function App() {
       </AnimatePresence>
 
       <AnimatePresence mode="wait">
-        {(data.playlists.length > 0 || data.summary) && (
+        {(data.playlists.length > 0 || data.summary || data.channel) && (
           <motion.div
             initial={{ opacity: 0, y: 40 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: 40 }}
             transition={{ duration: 0.5 }}
           >
+            {data.channel && (
+              <div className="channel-header">
+                <div className="channel-avatar-wrapper">
+                  <img src={data.channel.thumbnail} alt={data.channel.title} className="channel-avatar" />
+                </div>
+                <div className="channel-info">
+                  <a href={data.channel.url} target="_blank" rel="noopener noreferrer" className="channel-name-link">
+                    <h2>{data.channel.title}</h2>
+                    <ExternalLink size={16} />
+                  </a>
+                  <p>Channel Insight View</p>
+                </div>
+              </div>
+            )}
+
             {data.summary && (
               <div className="summary-grid">
                 <div className="stat-card">
