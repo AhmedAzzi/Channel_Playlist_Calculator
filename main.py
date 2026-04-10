@@ -33,7 +33,7 @@ def get_playlist_info_fast(url):
     num_unavailable = len(info['entries']) - len(videos)
     total_seconds = sum(durations)
     avg_seconds = statistics.mean(durations) if durations else 0
-    speeds = { sp: total_seconds / sp for sp in [1.25, 1.5, 1.75, 2.0] }
+    speeds = { sp: total_seconds / sp for sp in [1, 1.25, 1.5, 1.75, 2.0] }
     return {
         "title": info.get('title'),
         "id": info.get('id'),
